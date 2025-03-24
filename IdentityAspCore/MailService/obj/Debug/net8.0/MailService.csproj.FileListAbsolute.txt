@@ -1,0 +1,13 @@
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\bin\Debug\net8.0\MailService.deps.json
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\bin\Debug\net8.0\MailService.dll
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\bin\Debug\net8.0\MailService.pdb
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.csproj.AssemblyReference.cache
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.AssemblyInfoInputs.cache
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.AssemblyInfo.cs
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.csproj.CoreCompileInputs.cache
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.sourcelink.json
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.dll
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\refint\MailService.dll
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\MailService.pdb
+C:\Users\nairv\OneDrive\Desktop\.netCore\IdentityAspCore\MailService\obj\Debug\net8.0\ref\MailService.dll
